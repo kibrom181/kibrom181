@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kibrom181
+- 👋 Hi, I’m Kibrom Mehari.
 - 👀 I’m interested in coding with python and javascript.
 - 🌱 I’m currently learning software engineering.
 - 💞️ I’m looking to collaborate on web development.
