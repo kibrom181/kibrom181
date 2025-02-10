@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kibrom Mehari.
-- 👀 I’m interested in coding with java and javascript.
+- 👀 I’m interested in coding with java.
 - 🌱 I’m currently learning software engineering.
 - 💞️ I’m looking to collaborate on web development.
   you can get me using email kibrommehari121@gmail.com
