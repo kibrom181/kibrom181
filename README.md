@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kibrom Mehari.
 - 👀 I’m interested in coding with java.
 - 🌱 I’m currently learning software engineering.
-- 💞️ I’m looking to collaborate on web development.
+- 💞️ I’m looking to collaborate on web development(backend).
   you can get me using email kibrommehari121@gmail.com
 
 <!---
